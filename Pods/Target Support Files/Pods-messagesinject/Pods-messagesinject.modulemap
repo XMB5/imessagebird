@@ -1,0 +1,6 @@
+framework module Pods_messagesinject {
+  umbrella header "Pods-messagesinject-umbrella.h"
+
+  export *
+  module * { export * }
+}
